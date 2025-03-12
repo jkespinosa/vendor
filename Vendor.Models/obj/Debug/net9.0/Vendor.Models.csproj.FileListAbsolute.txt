@@ -9,3 +9,4 @@ C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Models\obj\Debug\net9.0\Vendor.Mo
 C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Models\obj\Debug\net9.0\refint\Vendor.Models.dll
 C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Models\obj\Debug\net9.0\Vendor.Models.pdb
 C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Models\obj\Debug\net9.0\ref\Vendor.Models.dll
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Models\obj\Debug\net9.0\Vendor.Models.sourcelink.json

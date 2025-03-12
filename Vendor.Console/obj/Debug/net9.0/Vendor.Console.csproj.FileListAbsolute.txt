@@ -17,3 +17,6 @@ C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Console\obj\Debug\net9.0\refint\V
 C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Console\obj\Debug\net9.0\Vendor.Console.pdb
 C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Console\obj\Debug\net9.0\Vendor.Console.genruntimeconfig.cache
 C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Console\obj\Debug\net9.0\ref\Vendor.Console.dll
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Console\obj\Debug\net9.0\Vendor.Console.sourcelink.json
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Console\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Console\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll

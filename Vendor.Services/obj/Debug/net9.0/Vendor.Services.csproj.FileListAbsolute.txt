@@ -15,3 +15,4 @@ C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\obj\Debug\net9.0\Vendor.
 C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\obj\Debug\net9.0\refint\Vendor.Services.dll
 C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\obj\Debug\net9.0\Vendor.Services.pdb
 C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\obj\Debug\net9.0\ref\Vendor.Services.dll
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\obj\Debug\net9.0\Vendor.Services.sourcelink.json

@@ -40,3 +40,6 @@ C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.WebAPI\obj\Debug\net9.0\refint\Ve
 C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.WebAPI\obj\Debug\net9.0\Vendor.WebAPI.pdb
 C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.WebAPI\obj\Debug\net9.0\Vendor.WebAPI.genruntimeconfig.cache
 C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.WebAPI\obj\Debug\net9.0\ref\Vendor.WebAPI.dll
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.WebAPI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.WebAPI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.WebAPI\obj\Debug\net9.0\Vendor.WebAPI.sourcelink.json

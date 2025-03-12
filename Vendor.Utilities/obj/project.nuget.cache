@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/v8nbusdwm0=",
+  "dgSpecHash": "YQILItPbERQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\HP2022\\Documents\\GitHub\\Vendor\\Vendor.Utilities\\Vendor.Utilities.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HP2022\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.3\\microsoft.extensions.configuration.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\HP2022\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.3\\microsoft.extensions.primitives.9.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

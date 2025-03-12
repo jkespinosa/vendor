@@ -9,3 +9,5 @@ C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Utilities\obj\Debug\net9.0\Vendor
 C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Utilities\obj\Debug\net9.0\refint\Vendor.Utilities.dll
 C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Utilities\obj\Debug\net9.0\Vendor.Utilities.pdb
 C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Utilities\obj\Debug\net9.0\ref\Vendor.Utilities.dll
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Utilities\obj\Debug\net9.0\Vendor.Utilities.csproj.AssemblyReference.cache
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Utilities\obj\Debug\net9.0\Vendor.Utilities.sourcelink.json

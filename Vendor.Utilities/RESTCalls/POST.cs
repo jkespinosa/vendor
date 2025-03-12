@@ -1,4 +1,5 @@
 ﻿
+using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,9 +8,17 @@ using System.Threading.Tasks;
 
 namespace Vendor.Utilities.RESTCalls
 {
+   
     public class POST
-    {
+    { 
+        private readonly IConfiguration Configuration;
 
+        public POST(IConfiguration configuration)
+        {
+            Configuration = configuration;
+        }
+
+        /*Se crea metodo post generico para obtener archivo .csv*/
         public static async Task POSTCall(String filePath)
         {
          
@@ -20,12 +29,9 @@ namespace Vendor.Utilities.RESTCalls
                 return;
             }
 
-
-
-
+            /*Configuracion para el certificado local*/
             HttpClientHandler clientHandler = new HttpClientHandler();
             clientHandler.ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; };
-
 
 
             // URL de la API donde se enviará el archivo
