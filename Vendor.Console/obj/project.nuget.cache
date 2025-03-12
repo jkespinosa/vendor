@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e9qFa1MdjH8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP2022\\Documents\\GitHub\\Vendor\\Vendor.Console\\Vendor.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP2022\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

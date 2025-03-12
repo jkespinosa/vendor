@@ -1,0 +1,11 @@
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Utilities\bin\Debug\net9.0\Vendor.Utilities.deps.json
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Utilities\bin\Debug\net9.0\Vendor.Utilities.dll
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Utilities\bin\Debug\net9.0\Vendor.Utilities.pdb
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Utilities\obj\Debug\net9.0\Vendor.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Utilities\obj\Debug\net9.0\Vendor.Utilities.AssemblyInfoInputs.cache
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Utilities\obj\Debug\net9.0\Vendor.Utilities.AssemblyInfo.cs
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Utilities\obj\Debug\net9.0\Vendor.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Utilities\obj\Debug\net9.0\Vendor.Utilities.dll
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Utilities\obj\Debug\net9.0\refint\Vendor.Utilities.dll
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Utilities\obj\Debug\net9.0\Vendor.Utilities.pdb
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Utilities\obj\Debug\net9.0\ref\Vendor.Utilities.dll

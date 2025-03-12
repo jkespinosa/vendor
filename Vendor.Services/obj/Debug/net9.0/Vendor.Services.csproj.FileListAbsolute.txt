@@ -1,0 +1,17 @@
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\bin\Debug\net9.0\Vendor.Services.deps.json
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\bin\Debug\net9.0\Vendor.Services.dll
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\bin\Debug\net9.0\Vendor.Services.pdb
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\bin\Debug\net9.0\Vendor.Models.dll
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\bin\Debug\net9.0\Vendor.Utilities.dll
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\bin\Debug\net9.0\Vendor.Models.pdb
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\bin\Debug\net9.0\Vendor.Utilities.pdb
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\obj\Debug\net9.0\Vendor.Services.csproj.AssemblyReference.cache
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\obj\Debug\net9.0\Vendor.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\obj\Debug\net9.0\Vendor.Services.AssemblyInfoInputs.cache
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\obj\Debug\net9.0\Vendor.Services.AssemblyInfo.cs
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\obj\Debug\net9.0\Vendor.Services.csproj.CoreCompileInputs.cache
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\obj\Debug\net9.0\Vendor.S.F2E06E5C.Up2Date
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\obj\Debug\net9.0\Vendor.Services.dll
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\obj\Debug\net9.0\refint\Vendor.Services.dll
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\obj\Debug\net9.0\Vendor.Services.pdb
+C:\Users\HP2022\Documents\GitHub\Vendor\Vendor.Services\obj\Debug\net9.0\ref\Vendor.Services.dll

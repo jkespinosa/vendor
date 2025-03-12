@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9+nSdv75L14=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP2022\\Documents\\GitHub\\Vendor\\Vendor.WebAPI\\Vendor.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP2022\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\HP2022\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\HP2022\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\HP2022\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\HP2022\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\HP2022\\.nuget\\packages\\scalar.aspnetcore\\2.0.29\\scalar.aspnetcore.2.0.29.nupkg.sha512",
+    "C:\\Users\\HP2022\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
